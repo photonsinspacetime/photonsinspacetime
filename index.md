@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi
 
 You can use the [editor on GitHub](https://github.com/photonsinspacetime/photonsinspacetime/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
